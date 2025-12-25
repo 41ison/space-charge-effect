@@ -11,6 +11,10 @@ When the concentration of ions in the trap becomes very high, the collective ter
 The ion cloud creates its own internal electric field that opposes the confining field of the instrument.
 The ions push each other away from the ideal center, expanding the ion cloud.
 
+<p align = "center">
+<img src = "https://github.com/41ison/space-charge-effect/blob/main/space_charge_effect.png" width = "1000">
+</p>
+
 ```Python
 import matplotlib.pyplot as plt
 import numpy as np
