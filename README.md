@@ -10,6 +10,7 @@ Thus, the greater the number of positively charged ions in the trap, the more di
 When the concentration of ions in the trap becomes very high, the collective term of Coulomb repulsion forces between all the ions becomes significant.
 The ion cloud creates its own internal electric field that opposes the confining field of the instrument.
 The ions push each other away from the ideal center, expanding the ion cloud.
+<Page JS, Bogdanov B, Vilkov AN, Prior DC, Buschbach MA, Tang K, Smith RD. Automatic gain control in mass spectrometry using a jet disrupter electrode in an electrodynamic ion funnel. J Am Soc Mass Spectrom. 2005 Feb;16(2):244-53[doi: 10.1016/j.jasms.2004.11.003](https://pubs.acs.org/doi/10.1016/j.jasms.2004.11.003).
 
 <p align = "center">
 <img src = "https://github.com/41ison/space-charge-effect/blob/main/space_charge_effect.png" width = "1000">
